@@ -1,5 +1,5 @@
 ### Superstore-Analysis
-### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiYjg4ZGVmNGYtZjVhOS00YmE5LTgzOWUtYjgzYzM0YjE1MGQ5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiNjFmMTlmNWMtMDgwYi00MzlmLThlYzItODQ4YjdhNmJiNmJlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 ## Problem Statement
 Objective is to contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 ### Key Insights
@@ -18,4 +18,7 @@ Actionable Insights and Recommendations: End goal is to share valuable insights 
  End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction .With the Supperstore Dashboard, I was able to make data-driven decisions.
 
 ![Screenshot 2024-04-06 213859](https://github.com/avilipsa12/Superstore-Analysis/assets/167240859/3ada6694-4c6d-40f5-ad0d-b7d23910d017)
+
+![Screenshot 2024-04-17 011812](https://github.com/avilipsa12/Superstore-Analysis/assets/167240859/20f30e33-10b9-4c8a-b781-c183e7ae7dc8)
+
 
